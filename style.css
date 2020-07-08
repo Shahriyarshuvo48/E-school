@@ -56,6 +56,14 @@
 .container-sec-4{
     padding-bottom: 80px;
 }
+.box{
+    color: darkslategray;
+    text-align: center;
+    height: 100px;
+    width: 800px;
+    background-image: linear-gradient( #F0FFF0,#21B573);
+    padding-top: 5px;
+}
 .continer-sec-5{
     background-color: #282531;
 }
